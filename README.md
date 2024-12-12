@@ -1,3 +1,4 @@
+![logo](https://github.com/Joshitr54/Joshi/blob/main/Business.gif)
 <h1 align="center">Hi 👋, I'm Tek Raj Joshi</h1>
 <h3 align="center">A Civil Engineer | Turning Ideas into Concrete Solutions</h3>
 <p align="right"alt="coding" width="400"src="https://  
